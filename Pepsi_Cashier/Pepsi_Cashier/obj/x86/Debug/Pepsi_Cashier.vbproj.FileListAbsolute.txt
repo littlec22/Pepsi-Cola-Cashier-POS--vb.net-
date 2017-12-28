@@ -1,0 +1,87 @@
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe.config
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.exe
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.xml
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.pdb
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.pdb
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.xml
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\MySql.Data.dll
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.editTransactionForm.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Form1.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Form2.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Resources.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.searchTrans.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.SplashScreen1.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.transaction_Search.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.transReport.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.vbproj.GenerateResource.Cache
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\RdlCompile.cache
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.staffFormvb.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.vbprojResolveAssemblyReference.cache
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.encoderForm.resources
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe.manifest
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.application
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.TrustInfo.xml
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.exe.manifest
+C:\Users\Villar\documents\visual studio 2010\Projects\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.application
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe.config
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.exe
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.pdb
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.vbprojResolveAssemblyReference.cache
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.editTransactionForm.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.encoderForm.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Form1.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Form2.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Resources.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.searchTrans.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.SplashScreen1.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.staffFormvb.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.transaction_Search.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.transReport.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.vbproj.GenerateResource.Cache
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\RdlCompile.cache
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe.manifest
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.application
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.pdb
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\MySql.Data.dll
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.TrustInfo.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.exe.manifest
+C:\Users\Villar\Documents\Visual Studio 2010\revision t\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.application
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe.config
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.exe
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.pdb
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe.manifest
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.application
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.exe
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.pdb
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Pepsi_Cashier.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\MySql.Data.dll
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.vbprojResolveAssemblyReference.cache
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.editTransactionForm.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.encoderForm.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Form1.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Form2.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.Resources.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.searchTrans.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.SplashScreen1.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.staffFormvb.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.transaction_Search.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.transReport.resources
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.vbproj.GenerateResource.Cache
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\RdlCompile.cache
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.TrustInfo.xml
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.exe.manifest
+C:\Users\Villar\Documents\Visual Studio 2010\revision t - Copy\Pepsi_Cashier\Pepsi_Cashier\obj\x86\Debug\Pepsi_Cashier.application
